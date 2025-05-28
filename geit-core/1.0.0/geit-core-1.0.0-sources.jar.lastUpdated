@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Apr 24 15:15:08 CST 2025
+http\://0.0.0.0/.error=Could not transfer artifact io.github.geit-pub\:geit-core\:jar\:sources\:1.0.0 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [gg (http\://180.76.124.154/ggnexus/repository/maven-public/, default, releases)]
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1745478908347
